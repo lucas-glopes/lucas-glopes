@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-glopes
 - 👀 I’m interested in Technology, Science, Art and Logic
-- 🌱 I’m currently HTML, CSS, JavaScript and WordPress
+- 🌱 I’m currently HTML, CSS, JavaScript and PHP
 <!-- - 📫 How to reach me: lucas.glopes3.0@gmail.com -->
 
 <!---
