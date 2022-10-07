@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-glopes
 - 👀 I’m interested in Technology, Science, Art and Logic
-- 🌱 I’m currently studying HTML, CSS, JavaScript and PHP
+- 🌱 I’m currently studying advanced concepts of HTML, CSS, JavaScript, PHP and MySQL
 <!-- - 📫 How to reach me: lucas.glopes3.0@gmail.com -->
 
 <!---
