@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-glopes
 - 👀 I’m interested in Technology, Science, Art and Logic
-- 📚 I’m currently studying Pyhton and Full Stack developer's content
+- 📚 I’m currently studying Python (main) and JS
 
 <!---
 lucas-glopes/lucas-glopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
