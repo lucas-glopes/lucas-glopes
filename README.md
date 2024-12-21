@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-glopes
-- 👀 I’m interested in Technology, Science, Art and Logic
-- 📚 I’m currently studying Python and JavaScript
+- 👀 I’m interested in Technology and Science
+- 📚 I’m currently studying Python
 
 <!---
 lucas-glopes/lucas-glopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
